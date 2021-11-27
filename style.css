@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
+article {
+  border-style: solid;
+  border-width: 1px;
+  width: 300px;
+  font-family: sans-serif;
+}
+div {
+  text-align: center;
+  background-color: rgb(235, 235, 210);
+  margin: 5px;
+}
+figure {
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding: auto;
+}
+a {
+  text-decoration: none;
+}
+.pencil {
+  text-align: end;
+  margin-right: -32px;
+  margin-left: 32px;
+  padding: auto;
+  display: inline;
+}
+.scient {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+td a {
+  margin-right: -45 px;
+  margin-left: 45px;
+  padding: 0;
+}
+.sup {
+  margin: auto;
+  padding: auto;
+}
+.strong {
+  margin-right: -45 px;
+  margin-left: 45px;
+  padding: 0;
+  font-style: italic;
+}
+.strong2 {
+  font-style: italic;
+}
+p a {
+  font-size: 12px;
+}
+li {
+  font-style: italic;
+}
+li a {
+  font-size: 13px;
+}
+a:hover {
+  text-decoration: underline;
+}
